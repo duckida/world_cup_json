@@ -34,6 +34,8 @@ We are super up and running for 2022. Note URL change! Please remember to make a
   
 - [World Cup Bar](https://cyrilniobe.gumroad.com/l/world-cup-mac-bar) A Mac menu bar app to watch today's live score and results while working.
 
+- [Pico World Cup](https://github.com/duckida/pico-worldcup/tree/main) A Pico W project that shows live scores of the day's matches.
+
 todo:
 
 - scrape match statistics
